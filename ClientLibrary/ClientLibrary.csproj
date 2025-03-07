@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services - Copy\Contracts\" />
-    <Folder Include="Services - Copy\Implementation\" />
     <Folder Include="Services\Contracts\" />
     <Folder Include="Services\Implementation\" />
   </ItemGroup>
